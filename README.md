@@ -1,7 +1,5 @@
 # Node js with jade
 
-### Prerequisites
-
 ### Install Dependencies
 
 ```
